@@ -1,5 +1,6 @@
 # Practica-Solidity
 "agradecimiento a ETHKIPU en youtube por la guia y los videos didacticos"
+
 estructura y publicacion en etherscan
 
 para publicar en etherscan seguir los siguientes pasos:
